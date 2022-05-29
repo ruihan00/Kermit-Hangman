@@ -1,0 +1,36 @@
+.keyboard-key {
+    border-style: none;
+    background-color: paleturquoise;
+    width: 5vw;
+    height: 5vw;
+    align-items: center;
+    font-size: 2.5vw;
+    margin: 0.5%;
+    opacity: 50%;
+    font-family: "Londrina Solid";
+}
+
+.keyboard-key:enabled:hover {
+    opacity: 70%;
+}
+
+.keyboard-key:disabled {
+    background-color: rgba(0,0,0,0.1);
+}
+
+
+#keyboard {
+   text-align: center;
+   justify-content: center;
+   flex-grow: 0.5;
+   align-items: center;
+}
+
+@media only screen and (max-width: 800px) {
+    .keyboard-key {
+        width: 8vw;
+        height: 8vw;
+        font-size: 5vw;
+    }
+
+}
