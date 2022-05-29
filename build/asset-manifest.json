@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kermit-Hangman/static/css/main.5e022dd4.css",
+    "main.js": "/Kermit-Hangman/static/js/main.f8e759fa.js",
+    "static/media/0.PNG": "/Kermit-Hangman/static/media/0.3c8fa43cf09a3555ba39.PNG",
+    "static/media/1.PNG": "/Kermit-Hangman/static/media/1.a675ba1787d9eb21293a.PNG",
+    "static/media/2.PNG": "/Kermit-Hangman/static/media/2.bd4f59ef7d83e202b001.PNG",
+    "static/media/3.PNG": "/Kermit-Hangman/static/media/3.39c2bc612f0ea900ca3c.PNG",
+    "static/media/4.PNG": "/Kermit-Hangman/static/media/4.8ff88fabe2645b82244e.PNG",
+    "static/media/5.PNG": "/Kermit-Hangman/static/media/5.73710be506c25dbb3837.PNG",
+    "static/media/6.PNG": "/Kermit-Hangman/static/media/6.4dce10dfdb277273b048.PNG",
+    "static/media/7.PNG": "/Kermit-Hangman/static/media/7.faa726a2913e8d2d1710.PNG",
+    "static/media/8.PNG": "/Kermit-Hangman/static/media/8.830e29f6951335eab8c2.PNG",
+    "static/media/9.PNG": "/Kermit-Hangman/static/media/9.8056f406eb20d441e609.PNG",
+    "index.html": "/Kermit-Hangman/index.html",
+    "main.5e022dd4.css.map": "/Kermit-Hangman/static/css/main.5e022dd4.css.map",
+    "main.f8e759fa.js.map": "/Kermit-Hangman/static/js/main.f8e759fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e022dd4.css",
+    "static/js/main.f8e759fa.js"
+  ]
+}
